@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gareema31
 - I’m interested in data and business analytics.
-- I’m currently learning handling of big data with tools like Pyhton, SQL, R.
-- Further I would like to work on machine learning and deep learning models with image processing.
+- I’m currently learning handling analytics with tools like Pyhton, SQL, R, and visualization with Power BI and Tableau.
+- Further I would like to work on machine learning and deep learning models.
 - You can reach me on my email lakra13gareeema@gmail.com
 
 <!---
